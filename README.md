@@ -11,10 +11,6 @@
 - https://www.w3schools.com/graphics/canvas_circles.asp
 
 
-# SALT:
-
-1JCQBW6UsLofqmbmKss4aBxfQc2gyTng15
-
 # DONATION GIFT - EC ENEGY LINE
 
 <img width="417" height="240" alt="image" src="https://github.com/user-attachments/assets/6df767ff-5768-4fe0-bd6e-b60f9f7e5e54" />
